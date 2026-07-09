@@ -7,7 +7,7 @@ const TelegramBot = require('node-telegram-bot-api');
 
 // Configuration
 const config = {
-  botToken: '7837780403:AAH_1CC9eXdjObwf63JmyeWehE0sNiQVonI',
+  botToken: '7680984011:AAG_4V9ZmkM9z1YpmpagXcXWKvU94mdtJ74',
   botName: "Permanent",
   adminId: 6837307356,
   maxFreeTime: 120,
